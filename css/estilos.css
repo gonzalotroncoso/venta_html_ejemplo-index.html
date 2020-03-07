@@ -32,3 +32,27 @@ nav ul li a{
 nav ul li a:hover{
 	color: white;
 }
+
+.main_section{
+	padding:20%;
+	text-align: center;
+}
+
+.products{
+	background-image: url('../imagenes/curve.jpg');
+	height: 200px;
+	background-size: cover;
+	background-position: center top;
+	padding:20px;
+	display: flex;
+}
+
+.product{
+	padding: 10px;
+}
+
+.product .content{
+	background-color: white;
+	padding: 20px;
+
+}
