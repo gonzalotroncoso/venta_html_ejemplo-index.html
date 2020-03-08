@@ -81,4 +81,43 @@ nav ul li a:hover{
 	background-color:#0c520c; 
 }
 
+.add_content{
+
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;	
+	font-size: 19px
+}
+
+.content{
+	padding: 30px;
+}
+
+.img-content{
+	height: 100px;
+	text-align:center;
+
+}
+
+.comentarios{
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.personas{
+	height: 100px;
+	width: 300px;
+
+	margin:10px;
+	padding:10px;
+	border:1px solid black;
+}
+
+
+
+
 
