@@ -92,7 +92,7 @@ nav ul li a:hover{
 
 .content{
 	height: 300px;
-	width: 200px;
+	width: 250px;
 	text-align: center;
 	padding: 30px;
 }
@@ -120,6 +120,11 @@ nav ul li a:hover{
 	
 	box-shadow: 0 0 2px black;
 	
+}
+
+ p{
+ 	text-align: justify;
+	margin:10px;
 }
 .coment-img{
 	display: flex;
@@ -154,4 +159,5 @@ footer a{
  	text-decoration: none;
  	color: white;
  	margin: 10px;
+
  }
